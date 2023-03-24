@@ -22,8 +22,8 @@ wait = WebDriverWait(driver, 1)
 set_schedule = True
 
 ### CONFIG ###
-userID = 'mhwon0624'
-userPW = '153zktpsxk'
+userID = ''
+userPW = ''
 
 def interval_time():
     n = datetime.now()
